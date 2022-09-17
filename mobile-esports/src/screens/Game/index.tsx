@@ -2,7 +2,7 @@
 import { Entypo } from '@expo/vector-icons';
 import { useNavigation, useRoute } from '@react-navigation/native';
 import { useEffect, useState } from 'react';
-import { FlatList, Image, TouchableOpacity, View } from 'react-native';
+import { FlatList, Image, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { GameParams } from '../../@types/navigation';
 import logoImg from '../../assets/logo-nlw-esports.png';
@@ -60,9 +60,14 @@ export function Game() {
           keyExtractor={item => item.id}
           renderItem={({ item }) =>  <DuoCard data={item} onConnect={() => {}}/> }
           horizontal
-          contentContainerStyle={styles.contentList}
+          contentContainerStyle={[duos.length > 0 ? styles.contentList : styles.emptyListConnect ]}
           showsHorizontalScrollIndicator={false}
           style={styles.containerList}
+          ListEmptyComponent={()=>
+            <Text style={styles.emptylistText}>
+              Não há anúncios publicados ainda.
+            </Text>
+          }
         />
       </SafeAreaView>
     </Background>
