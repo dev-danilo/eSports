@@ -16,6 +16,8 @@
 
 ![App Screenshot](https://github.com/dev-danilo/eSports/blob/main/mobile.gif)
 ![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593356/readme%20repos/eSports/screen1_tpqjz0.png)
+![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen2_dw3zg7.png)
+![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen3_d1rq2h.png)
 
 <!-- <p align="center">
   <a href="https://dpshoes.netlify.app/" target="_blank">
