@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    Rocketshoes
+    Next Level Week eSports
 </h1>
 
 <h4 align="center">
@@ -53,6 +53,7 @@ This project was developed at the [Rocketseat NLW](https://rocketseat.com.br/) w
 ### Mobile
 -  [React Native](https://reactnative.dev/)
 -  [Expo](https://expo.dev)
+-  -  [TypeScript](https://www.typescriptlang.org/)
 
 ### Tools
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
