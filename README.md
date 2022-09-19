@@ -15,6 +15,8 @@
 </p>
 
 ![App Screenshot](https://github.com/dev-danilo/eSports/blob/main/mobile.gif)
+![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593356/readme%20repos/eSports/screen1_tpqjz0.png)
+
 <!-- <p align="center">
   <a href="https://dpshoes.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/danilopereira/image/upload/v1582659473/Rocketshoes/demoNetlifyy.png">
@@ -43,6 +45,7 @@ This project was developed at the [Rocketseat NLW](https://rocketseat.com.br/) w
 -  [TypeScript](https://www.typescriptlang.org/)
 
 ### Mobile
+-  [React Native](https://reactnative.dev/)
 -  [Expo](https://expo.dev)
 
 ### Tools
