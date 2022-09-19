@@ -15,10 +15,14 @@
 </p>
 
 ![App Screenshot](https://github.com/dev-danilo/eSports/blob/main/mobile.gif)
-![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593356/readme%20repos/eSports/screen1_tpqjz0.png)
-![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen2_dw3zg7.png)
-![Mobile](https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen3_d1rq2h.png)
 
+<img alt="" src="https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593356/readme%20repos/eSports/screen1_tpqjz0.png" height="450" >
+<img alt="" src="https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen2_dw3zg7.png" height="450" >
+<img alt="" src="https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663593355/readme%20repos/eSports/screen3_d1rq2h.png" height="450" >
+<img alt="" src="https://res.cloudinary.com/dlyrhrfc7/image/upload/v1663594410/readme%20repos/eSports/Screen_Shot_2022-09-19_at_10.33.21_nrywao.png" height="450" >
+
+<!-- 
+ 
 <!-- <p align="center">
   <a href="https://dpshoes.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/danilopereira/image/upload/v1582659473/Rocketshoes/demoNetlifyy.png">
